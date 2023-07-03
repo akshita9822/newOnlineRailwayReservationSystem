@@ -1,0 +1,5 @@
+package com.railwayreservationsystem.configuration;
+
+public class WebSecurityConfiguration {
+
+}

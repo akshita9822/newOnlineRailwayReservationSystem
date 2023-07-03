@@ -1,0 +1,5 @@
+package com.railwayreservationsystem.service;
+
+public class RoleService {
+
+}

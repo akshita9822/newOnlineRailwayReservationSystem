@@ -1,0 +1,5 @@
+package com.railwayreservationsystem.model;
+
+public class User {
+
+}

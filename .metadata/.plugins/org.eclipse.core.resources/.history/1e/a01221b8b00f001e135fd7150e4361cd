@@ -1,0 +1,11 @@
+package com.railwayreservationsystem.TrainDetails.TrainRepository;
+
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import com.railwayreservationsystem.TrainDetails.TrainModel.TrainInfo;
+
+public interface TrainRepository extends MongoRepository<TrainInfo, Integer> {
+	//TrainInfo findByTrainNo(int trainNo);
+}
+

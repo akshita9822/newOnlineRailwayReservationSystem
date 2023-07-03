@@ -1,0 +1,5 @@
+1686508166585	Rename package 'com.railwayreservationsystem.controller.TrainDetails'
+1686508228317	Rename package 'com.railwayreservationsystem.exception.TrainDetails'
+1686508282671	Rename package 'com.railwayreservationsystem.model.TrainDetails'
+1686508300855	Rename package 'com.railwayreservationsystem.repository.TrainDetails.TrainRepository'
+1686508313117	Rename package 'com.railwayreservationsystem.service.TrainDetails.TrainService'

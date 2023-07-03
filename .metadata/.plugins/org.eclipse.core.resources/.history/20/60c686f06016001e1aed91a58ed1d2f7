@@ -1,0 +1,5 @@
+package com.railwayreservationsystem.jwt.UserService;
+
+public class UserRepo {
+
+}
